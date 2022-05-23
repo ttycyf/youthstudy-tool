@@ -3,7 +3,7 @@ import urllib.parse
 
 #如不使用github actions，请删除下方注释并手动设定xLitemallToken或mid
 #xLitemallToken=""
-#mid=
+#mid=""
 apiHeaders = {
   'Host': 'tuanapi.12355.net',
   'Connection': 'keep-alive',
